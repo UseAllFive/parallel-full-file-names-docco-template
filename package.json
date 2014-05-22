@@ -1,0 +1,15 @@
+{
+  "name": "parallel-full-file-names-docco-template",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UseAllFive/parallel-full-file-names-docco-template.git"
+  },
+  "version": "0.0.0",
+  "bugs": {
+    "url": "https://github.com/UseAllFive/parallel-full-file-names-docco-template/issues"
+  },
+  "homepage": "https://github.com/UseAllFive/parallel-full-file-names-docco-template",
+  "description": "Modified parallel layout for docco. Includes full file name after `web/js` and doesn't capitalize file names.",
+  "author": "janastos@useallfive.com",
+  "license": "MIT"
+}
